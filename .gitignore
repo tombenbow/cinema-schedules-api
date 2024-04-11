@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+.env
+.data
+yarn.lock
+cinema-viewer1-firebase-adminsdk-lf2hl-78a09ce780.json
